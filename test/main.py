@@ -7,4 +7,4 @@ with open('input.txt', 'r') as f:
             print(f"increase {int(line.strip())}")
             Result += 1
         Lastnumber = int(line.strip())
-    print(f"Resultat = {Result}")
+    print(f"Resulta = {Result}")
